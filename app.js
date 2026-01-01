@@ -25,10 +25,12 @@ function btn6() {
 }
 
 function btnReset() {
-    document.getElementById("one").style.color = "black"
-    document.getElementById("two").style.color = "black"
-    document.getElementById("three").style.color = "black"
-    document.getElementById("four").style.color = "black"
-    document.getElementById("five").style.color = "black"
-    document.getElementById("six").style.color = "black"
+    // document.getElementById("one").style.color = "black"
+    // document.getElementById("two").style.color = "black"
+    // document.getElementById("three").style.color = "black"
+    // document.getElementById("four").style.color = "black"
+    // document.getElementById("five").style.color = "black"
+    // document.getElementById("six").style.color = "black"
+
+    window.location.reload();
 }
